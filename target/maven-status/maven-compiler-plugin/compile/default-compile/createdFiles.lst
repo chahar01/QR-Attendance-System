@@ -1,0 +1,13 @@
+com\qrattendance\servlet\DashboardServlet.class
+com\qrattendance\servlet\StudentServlet.class
+com\qrattendance\util\DBUtil.class
+com\qrattendance\servlet\ReportServlet.class
+com\qrattendance\dao\AdminDAO.class
+com\qrattendance\dao\StudentDAO.class
+com\qrattendance\model\AttendanceRecord.class
+com\qrattendance\servlet\QRCodeServlet.class
+com\qrattendance\dao\AttendanceDAO.class
+com\qrattendance\servlet\AttendanceServlet.class
+com\qrattendance\servlet\AdminServlet.class
+com\qrattendance\servlet\LogoutServlet.class
+com\qrattendance\dao\DashboardDAO.class
